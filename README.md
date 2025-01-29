@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DrenTey
+- 👀 I’m interested in Lingustics (ancient and modern), translations,
+- 🌱 I’m currently learning  JavaScript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : you can write to me in English, Italian or Polish.
+- 😄 Pronouns: he/him
