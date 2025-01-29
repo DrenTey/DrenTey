@@ -1,4 +1,4 @@
-![DrenTey Workspace](img/DrenTeyWorkplace.png)
+![DrenTey Workspace](img/DrenTeyWorkplace750.png)
 - 👋 Hi, I’m @DrenTey
 - 👀 I’m interested in Lingustics (ancient and modern), translations, webdesigning, coding.
 - 🌱 I’m currently learning  JavaScript
